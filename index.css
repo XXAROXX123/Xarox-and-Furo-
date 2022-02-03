@@ -1,0 +1,63 @@
+html {
+    font-family: 'Varela', sans-serif;
+}
+header h1 {
+text-align: center;
+    color: white;
+    font-weight: bold;
+}
+body {
+    height: 100vh;
+    background: linear-gradient(to bottom, #0104FD, #9404FA);
+    } 
+   header button {
+background: rgb(146, 142, 142);
+    display: inline-block;
+    background-color: #7b38d8;
+    border-radius: 30px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 400px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    display: -webkit-box;
+align-items: center;
+justify-content: center;
+display: flex;
+margin:0 auto;
+align-items:center;
+    }
+    button:hover {
+  background-color: #0104FD;
+}
+section button {
+        background: rgb(146, 142, 142);
+            display: inline-block;
+            background-color: #7b38d8;
+            border-radius: 30px;
+            border: 2px double #cccccc;
+            color: #eeeeee;
+            text-align: center;
+            font-size: 28px;
+            padding: 20px;
+            width: 400px;
+            -webkit-transition: all 0.5s;
+            -moz-transition: all 0.5s;
+            -o-transition: all 0.5s;
+            transition: all 0.5s;
+            cursor: pointer;
+            margin: 5px;
+            display: -webkit-box;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin:0 auto;
+        align-items:center;
+            }
